@@ -3,3 +3,6 @@
 //
 //In "characters" branch... also adding a Characters.cs file``:wq
 //
+//
+//
+//Working on weapons (JBB)
